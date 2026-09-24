@@ -2,7 +2,7 @@
 COMPUTER NETWORK project of fifth semester engineering.
 
 Project Chosen: Project 1 (Designing a Proxy Server)
-Group Number
+
 SECTION - CSE 31
 
 Group Members:
